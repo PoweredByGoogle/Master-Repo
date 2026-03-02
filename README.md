@@ -1,4 +1,4 @@
-# [Site Name] - Premium Digital Asset Vault
+# [AI Business Automation Kits] - Premium Digital Asset Vault
 
 This repository contains high-value files and data sets specifically for [Niche].
 
