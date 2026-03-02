@@ -1,0 +1,9 @@
+{
+  "site_name": "Crypto Trading Guides 2026",
+  "payout_wallets": {
+    "solana": "7S8x4rVmAuazq8iMHHwb3T1cMCv5wXnUxiRjwgyYGh5i",
+    "bitcoin": "bc1qp5xzq2aa4mz3qejp42wqvaandtgc4qguppz9cj",
+    "eth": "0x7fd0d4addbee109ef76b12adbae72ec2b56312f1"
+  },
+  "file_price_usd": 15
+}
