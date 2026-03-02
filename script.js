@@ -5,5 +5,5 @@ const wallets = {
 
 function showWallet(type) {
     const display = document.getElementById('wallet-display');
-    display.innerHTML = `Send to ${type.toUpperCase()}: <br><strong>${wallets[type]}</strong><br><br>After sending, email proof to: your-email@example.com`;
+    display.innerHTML = `Send to ${type.toUpperCase()}: <br><strong>${wallets[type]}</strong><br><br>After sending, email proof to: GworkshopUS@Gmail.com`;
 }
